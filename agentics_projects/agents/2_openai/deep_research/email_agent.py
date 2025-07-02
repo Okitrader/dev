@@ -36,8 +36,8 @@ def send_email(subject: str, html_body: str) -> Dict[str, str]:
         )
 
         # --- CONFIGURE EMAIL PARAMETERS ---
-        from_email = "lites.e@gmail.com"  # Your verified sender
-        to_emails = "lites.e@gmail.com"   # Recipient
+        from_email = "youremail@gmail.com"  # Your verified sender
+        to_emails = "youremail@gmail.com"   # Recipient
 
         # --- CONSTRUCT AND SEND EMAIL ---
         mail = Mail(
