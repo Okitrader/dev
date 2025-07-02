@@ -29,7 +29,7 @@ An advanced multi-agent research system that orchestrates specialized AI agents 
 - Metadata tracking (word count, timestamps)
 
 #### Email Agent
-- SendGrid integration with lites.e@gmail.com
+- SendGrid integration with youremail@mail.com 
 - Professional HTML formatting
 - Enhanced error handling
 - Detailed logging
@@ -85,4 +85,4 @@ View execution traces at: https://platform.openai.com/traces
 
 ## Email Configuration
 
-The system is configured to send emails from and to `lites.e@gmail.com`. Update in `email_agent.py` if needed.
+The system is configured to send emails from and to `youremail  `. Update in `email_agent.py` if needed.
