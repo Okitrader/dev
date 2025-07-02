@@ -1,0 +1,29 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+sendgrid>=6.9.0
+gradio>=4.0.0
+aiohttp>=3.8.0
+
+# Async support
+asyncio
+asyncio-throttle>=1.0.0
+
+# Environment and utilities
+python-dateutil>=2.8.0
+tenacity>=8.2.0  # For retry logic
+cachetools>=5.3.0  # For in-memory caching
+
+# Optional: For enhanced functionality
+langsmith>=0.1.0  # For tracing and debugging
+# ipython>=8.0.0    # For Jupyter notebook support
+
+# Monitoring (Optional for production)
+# prometheus-client>=0.18.0  # For metrics endpoint
+
+# Development & Testing (Optional)
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# pytest-mock>=3.11.0
+# locust>=2.17.0  # For load testing

@@ -1,0 +1,45 @@
+{
+  "generated": "2025-07-02T00:01:52.084540",
+  "analytics": {
+    "summary": {
+      "total_researches": 2,
+      "unique_days": 1,
+      "average_per_day": 2.0,
+      "total_words_generated": 902,
+      "total_searches_performed": 10,
+      "cache_hit_rate": 0.0
+    },
+    "temporal": {
+      "researches_by_date": {
+        "2025-06-30": 2
+      },
+      "peak_hours": {
+        "22": 2
+      },
+      "recent_7_days": 2
+    },
+    "content": {
+      "common_query_terms": {
+        "aircraft": 2,
+        "military": 1,
+        "force": 1
+      },
+      "tag_distribution": {
+        "military": 2,
+        "ai": 2,
+        "trading": 2
+      },
+      "average_report_length": 451,
+      "format_preferences": {
+        "Executive Summary": 2
+      },
+      "audience_distribution": {
+        "General Public": 2
+      }
+    },
+    "performance": {
+      "average_processing_time": 50.69,
+      "enhanced_features_usage": 1.0
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-07-01T02:11:38.685509",
+  "checks_passed": 27,
+  "checks_failed": 3,
+  "warnings": [
+    "SENDGRID_API_KEY not set - Optional for email delivery",
+    "LANGSMITH_API_KEY not set - Optional for tracing",
+    "USE_NEW_ARCHITECTURE not set - Controls architecture selection",
+    "SHADOW_MODE_PERCENTAGE not set - Controls A/B testing"
+  ],
+  "ready": false
+}

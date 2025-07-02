@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-07-01T01:27:34.028727",
+  "results": {
+    "passed": [
+      "Tool registry access",
+      "Tool loading: clarifier",
+      "Tool loading: planner",
+      "Tool loading: search",
+      "Tool loading: writer",
+      "Tool loading: email",
+      "Tool loading: followup",
+      "Writer selection test 1",
+      "Writer selection test 2",
+      "Writer selection test 3",
+      "Template: Executive Summary",
+      "Template: Technical Deep-Dive",
+      "Template: Comparative Analysis",
+      "Quality score calculation",
+      "Performance prediction",
+      "Optimization suggestions",
+      "Query analysis: What is Python?",
+      "Query analysis: Compare microservices vs monol",
+      "Query analysis: Latest AI developments in 2024",
+      "Error categorization: network",
+      "Error categorization: api_limit",
+      "Error categorization: authentication",
+      "Error categorization: timeout",
+      "Error categorization: parsing",
+      "Cache key generation",
+      "Cache operations",
+      "Agent mapping: clarifier",
+      "Agent mapping: planner",
+      "Agent mapping: search",
+      "Agent mapping: writer",
+      "Agent mapping: email",
+      "Agent mapping: followup",
+      "Enhanced variant: enhanced_planner",
+      "Enhanced variant: enhanced_search"
+    ],
+    "failed": [],
+    "warnings": [
+      "Enhanced variant missing: enhanced_writer"
+    ]
+  },
+  "summary": {
+    "total": 34,
+    "passed": 34,
+    "failed": 0,
+    "warnings": 1
+  }
+}
